@@ -1,0 +1,9 @@
+{
+  // Apresentação do Workshop Black Friday UPFY (workshop.upfy.net.br)
+  // Só arquivos estáticos: tudo o que está em public/ vai ao ar como está.
+  "name": "upfy-workshop-black",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
